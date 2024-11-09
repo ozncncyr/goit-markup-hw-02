@@ -8,7 +8,7 @@ body{
     font-size: 18px;
     font-weight: 700;
     line-height: 1,17;
-    letter-spacing 0.03em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
 }
@@ -19,7 +19,7 @@ body{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing 0.02em;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .nav-list .link:hover,
@@ -45,7 +45,7 @@ body{
     color: #ffffff;
     background-color:#4D5AE5;
     line-height: 1.5;
-    letter-spacing: 4%;
+    letter-spacing: 0.04em;
     cursor: pointer;
 }
 .section-one-button:hover,
@@ -55,19 +55,19 @@ body{
 .section-two .text{
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing 0.02em;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 .section-three .text {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing 0.02em;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 .section-four .text {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing 0.02em;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 .footer-logo{
@@ -75,7 +75,7 @@ body{
     font-size: 18px;
     font-weight: 700;
     line-height: 1, 17;
-    letter-spacing 0.03em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2E2F42;
 }
